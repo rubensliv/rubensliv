@@ -6,7 +6,7 @@ Sou um pesquisador/desenvolvedor apaixonado por automação, inteligência artif
 análise de dados e estatística.
 Gosto de resolver problemas do dia a dia com soluções inovadoras e tecnologicaa.
 - Extraindo conhecimento de grandes volumes de dados
-- Fazendo Aanálise preditivas, classificando e segmentando padrões
+- Criando modelos preditivas, de classificação/segmentação de padrões
 - Analisando sentimentos a partir de dados não estruturados
 - Explorando novas tecnologias e aprimorando minhas habilidades
 - Interesse especial em **IA, Automação, Web Scraping e Data Science**
